@@ -1,3 +1,4 @@
+console.log("Fetched fa.js");
 let arr = [];
 function get_us_debt() {
     let results = 30;
