@@ -1,6 +1,3 @@
-console.log("TEST");
-console.log("Repository was updated!");
-// Test comment
 let arr = [];
 function get_us_debt() {
     let results = 30;
