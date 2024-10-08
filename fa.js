@@ -1,3 +1,4 @@
+console.log("TEST");
 let arr = [];
 function get_us_debt() {
     let results = 30;
